@@ -1,0 +1,6 @@
+{
+  "name": "ScholarEarn - Safe & Legal Part-Time Earning for Students",
+  "description": "A student-friendly directory and guide for verified legal part-time income platforms, featuring safety checks, earnings estimates, study-work balance tools, and financial literacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
